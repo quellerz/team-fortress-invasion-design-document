@@ -14,7 +14,7 @@ The Humans and Aliens differ in gameplay philosophy. Humans require external pow
 ## Control settings
 
 ## General game style
-
+dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld maps ith wide open areas for the firefight and flanking parts, thats some of the examples of atmosphere for team fortress invasion. the visuals are dirty and the gameplay is non-stop shooting and resource harvesting. a fast-paced game that each match goes around 15 minutes.
 ## Systems & Mechanics
 
 ### Systems
