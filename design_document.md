@@ -26,3 +26,6 @@ The Humans and Aliens differ in gameplay philosophy. Humans require external pow
 ## Design
 
 ## Interface
+
+### References
+[hl2-beta.ru - Team Fortress 2: Invasion mechanics](https://hl2-beta.ru/index.php?action=articles;sa=view;article=59;language=english)
