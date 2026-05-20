@@ -42,7 +42,7 @@ dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld 
 ## Design
 The game ressembles a cartoonish version of half-life 2 beta, especially 2000-2001 era, with dirty visuals and WW1 inspired designs.
 ## Interface
-
+like classic valve games, looks like valve GUI but with green boarders.
 ### References
 [hl2-beta.ru - Team Fortress 2: Invasion mechanics](https://hl2-beta.ru/index.php?action=articles;sa=view;article=59;language=english)
 
