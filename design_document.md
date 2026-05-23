@@ -70,9 +70,9 @@ dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld 
 
 **rocket launcher** - works just like hl2 rocket launcher. it deals 100 damage on direct hit.
 
-**J-stye** - used by commando, the J-stye is a converted vickers machine gun, made to be carried around instead of being stationary, it fires 30 cal. bullets.
+**J-stye** - it has 32 round clip and 128 bullets in reserve.
 
-**shotgun** - well, its a shotgun, a winchester 1897 for humans, and for aliens its a brand new equivalent.
+**shotgun** - works just like its TF2 counterpart.
 
 **flamethrower** - works just like its TF2 counterpart.
 
@@ -80,13 +80,13 @@ dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld 
 
 **laser rifle** - 
 
-**laser minigun** - 
+**laser minigun** - works just like its TF2 counterpart.
 
-**plasma grenade launcher** -
+**plasma grenade launcher** - works just like its TF2 counterpart.
 
 **harpoon** -
 
-**sniper rifle** -
+**sniper rifle** - works just like its TF2 counterpart.
 ## Design
 The game ressembles a cartoonish version of half-life 2 beta, especially 2000-2001 era, with dirty visuals and WW1 inspired designs.
 ## Interface
