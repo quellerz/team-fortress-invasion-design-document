@@ -35,36 +35,58 @@ dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld 
 ## Systems & Mechanics
 
 ### Systems
-buildings - classes have buildings like bunkers and walls, others have buildings like buffstations and powerpacks which are meant to help out other players.
-classes - the game has 9 classes (for now) including: the recon, the commando, the defender, the medic, the pyro, the infiltrator, the support, the escort and the sniper.
+**buildings** - classes have buildings like bunkers and walls, others have buildings like buffstations and powerpacks which are meant to help out other players.
+
+**classes** - the game has 9 classes (for now) including: the recon, the commando, the defender, the medic, the pyro, the infiltrator, the support, the escort and the sniper.
 ### Mechanics
-shield - some classes have the shield, which reduces the damage by half and has 5 seconds of use and 12 seconds of cooldown.
+**shield** - some classes have the shield, which reduces the damage by half and has 5 seconds of use and 12 seconds of cooldown.
 
-grenades - grenades can be thrown by pressing H and if you hold the key, they cook, exploding in you, but if done correctly, this can turn into a grenade jump. each class has a special grenade.
+**grenades** - grenades can be thrown by pressing H and if you hold the key, they cook, exploding in you, but if done correctly, this can turn into a grenade jump. each class has a special grenade.
 
-dual pistols - used by recon only, the dual pistols fires laser toward the enemies.
+### weapons
+**dual pistols** - used by recon only, the dual pistols fires laser toward the enemies.
 
-rocket launcher - used by commando only, the rocket launcher fires laser-designated rockets.
+**rocket launcher** - used by commando only, the rocket launcher fires laser-designated rockets.
 
-J-stye - used by commando, the J-stye is a converted vickers machine gun, made to be carried around instead of being stationary, it fires 30 cal. bullets.
+**J-stye** - used by commando, the J-stye is a converted vickers machine gun, made to be carried around instead of being stationary, it fires 30 cal. bullets.
 
-shotgun - well, its a shotgun, a winchester 1897 for humans, and for aliens its a brand new equivalent.
+**shotgun** - well, its a shotgun, a winchester 1897 for humans, and for aliens its a brand new equivalent.
 
-flamethrower - its just a flamethrower for humans and other kind of the same for aliens, the second fire drops gasoline which can be used to set traps to the enemies.
+**flamethrower** - its just a flamethrower for humans and other kind of the same for aliens, the second fire drops gasoline which can be used to set traps to the enemies.
 
-tranquilizer - used by infiltrator only, it fires 1 dart that slow down the enemies.
+**tranquilizer** - used by infiltrator only, it fires 1 dart that slow down the enemies.
 
-laser rifle - its a laser rifle, it fires... laser lol
+**laser rifle** - its a laser rifle, it fires... laser lol
 
-laser minigun - used by escort, the name explains itself.
+**laser minigun** - used by escort, the name explains itself.
 
-plasma grenade launcher - used by support only, it fire grenades just like tf2 grenade launcher
+**plasma grenade launcher** - used by support only, it fire grenades just like tf2 grenade launcher
 
-harpoon - used by support only, it can fire at enemies and pull them close to your grenades range.
+**harpoon** - used by support only, it can fire at enemies and pull them close to your grenades range.
 
-sniper rifle - used by sniper, its a springfield rifle converted to fire lasers.
+**sniper rifle** - used by sniper, its a springfield rifle converted to fire lasers.
 ## Parameter
-most automatic weapons should have around 40 round clips, shotguns about 8, rocket launcher 1 per fire and grenade launcher should have 4.
+**dual pistols** - it fires 5 bullets per second and has a 10 round clip and 60 bullets as reserve. it deals 15 damage.
+
+**rocket launcher** - works just like hl2 rocket launcher. it deals 100 damage on direct hit.
+
+**J-stye** - used by commando, the J-stye is a converted vickers machine gun, made to be carried around instead of being stationary, it fires 30 cal. bullets.
+
+**shotgun** - well, its a shotgun, a winchester 1897 for humans, and for aliens its a brand new equivalent.
+
+**flamethrower** - works just like its TF2 counterpart.
+
+**tranquilizer** - it fires 1 dart then the gun need to be reloaded, the dart deals 20 damage but slows down the enemy for 5 seconds..
+
+**laser rifle** - 
+
+**laser minigun** - 
+
+**plasma grenade launcher** -
+
+**harpoon** -
+
+**sniper rifle** -
 ## Design
 The game ressembles a cartoonish version of half-life 2 beta, especially 2000-2001 era, with dirty visuals and WW1 inspired designs.
 ## Interface
