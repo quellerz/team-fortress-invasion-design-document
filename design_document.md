@@ -21,13 +21,14 @@ The Humans and Aliens differ in gameplay philosophy. Humans require external pow
 | Duck                             | Ctrl |                        |
 | Fire                             | M1   |                        |
 | secondary action                 | M2   |                        |
+| throw grenade                    | G    |                        |
 | Use Voice Chat                   | V    |                        |
 | Say                              | Y    |                        |
 | Say Team                         | U    |                        |
 | Call for Medic                   | E    |                        |
 | Change Class                     | ,    |                        |
 | Change Team                      | .    |                        |
-| Taunt                            | G    |                        |
+| Taunt                            | H    |                        |
 
 ## General game style
 dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld maps ith wide open areas for the firefight and flanking parts, thats some of the examples of atmosphere for team fortress invasion. the visuals are dirty and the gameplay is non-stop shooting and resource harvesting. a fast-paced game that each match goes around 15 minutes.
@@ -35,8 +36,33 @@ dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld 
 
 ### Systems
 buildings - classes have buildings like bunkers and walls, others have buildings like buffstations and powerpacks which are meant to help out other players.
+classes - the game has 9 classes (for now) including: the recon, the commando, the defender, the medic, the pyro, the infiltrator, the support, the escort and the sniper.
 ### Mechanics
 shield - some classes have the shield, which reduces the damage by half and has 5 seconds of use and 12 seconds of cooldown.
+
+grenades - grenades can be thrown by pressing H and if you hold the key, they cook, exploding in you, but if done correctly, this can turn into a grenade jump. each class has a special grenade.
+
+dual pistols - used by recon only, the dual pistols fires laser toward the enemies.
+
+rocket launcher - used by commando only, the rocket launcher fires laser-designated rockets.
+
+J-stye - used by commando, the J-stye is a converted vickers machine gun, made to be carried around instead of being stationary, it fires 30 cal. bullets.
+
+shotgun - well, its a shotgun, a winchester 1897 for humans, and for aliens its a brand new equivalent.
+
+flamethrower - its just a flamethrower for humans and other kind of the same for aliens, the second fire drops gasoline which can be used to set traps to the enemies.
+
+tranquilizer - used by infiltrator only, it fires 1 dart that slow down the enemies.
+
+laser rifle - its a laser rifle, it fires... laser lol
+
+laser minigun - used by escort, the name explains itself.
+
+plasma grenade launcher - used by support only, it fire grenades just like tf2 grenade launcher
+
+harpoon - used by support only, it can fire at enemies and pull them close to your grenades range.
+
+sniper rifle - used by sniper, its a springfield rifle converted to fire lasers.
 ## Parameter
 most automatic weapons should have around 40 round clips, shotguns about 8, rocket launcher 1 per fire and grenade launcher should have 4.
 ## Design
