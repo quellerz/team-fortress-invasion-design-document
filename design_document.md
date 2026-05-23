@@ -66,6 +66,8 @@ dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld 
 
 **sniper rifle** - used by sniper, its a springfield rifle converted to fire lasers.
 ## Parameter
+**grenades** - each class has 3 grenades (supposed to change when we get a better idea of special grenades)
+
 **dual pistols** - it fires 5 bullets per second and has a 10 round clip and 60 bullets as reserve. it deals 15 damage.
 
 **rocket launcher** - works just like hl2 rocket launcher. it deals 100 damage on direct hit.
