@@ -21,7 +21,8 @@ The Humans and Aliens differ in gameplay philosophy. Humans require external pow
 | Duck                             | Ctrl |                        |
 | Fire                             | M1   |                        |
 | secondary action                 | M2   |                        |
-| throw grenade                    | G    |                        |
+| throw grenade                    | F    |                        |
+| throw secondary grenade          | G    |                        |
 | Use Voice Chat                   | V    |                        |
 | Say                              | Y    |                        |
 | Say Team                         | U    |                        |
