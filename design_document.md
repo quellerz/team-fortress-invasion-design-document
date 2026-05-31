@@ -71,7 +71,7 @@ dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld 
 **harpoon** - used by support only, it can fire at enemies and pull them close to your grenades range.
 
 **sniper rifle** - used by sniper, its a springfield rifle converted to fire lasers.
-## Parameter
+## Parameters
 **grenades** - each class has 3 grenades (supposed to change when we get a better idea of special grenades)
 
 **dual pistols** - it fires 5 bullets per second and has a 10 round clip and 60 bullets as reserve. it deals 15 damage.
