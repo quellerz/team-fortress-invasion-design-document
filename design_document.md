@@ -43,7 +43,22 @@ dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld 
 ### Systems
 **buildings** - classes have buildings like bunkers and walls, others have buildings like buffstations and powerpacks which are meant to help out other players.
 
-**classes** - the game has 9 classes (for now) including: the recon, the commando, the defender, the medic, the pyro, the infiltrator, the support, the escort and the sniper.
+### Classes
+
+A distinctive feature of the Team Fortress series are the classes. This game has 9 classes including: the Recon, the Commando, the Defender, the Medic, the Pyro, the Infiltrator, the Support, the Escort and the Sniper.
+
+| Name | HP | Speed (hu/s) | Equipment | Abilities |
+| ---- | -- | ------------ | --------- | ----------- |
+| the Recon | 125 | 400 | Dual pistols, melee, conclussion grenade, sticky grenade | double jump |
+| the Commando | 200 | 250 | Rocket launcher, J-stye, melee, frag grenade, nail grenade | (??) |
+| the Defender | 125 | 300 | Shotgun, frag grenade, melee, EMP grenade | build sentry guns, gain Technology upgrades such as increased sentry gun count, can unlock Welder technology, repair buildings |
+| the Medic | 150 | 320 | Plasma rifle, Repair Gun, frag grenade, heal grenade | heal, repair buildings, HP regeneration |
+| the Pyro | 150 | 290 | Flamethrower, shotgun, melee, frag grenade, gas can | immune to afterburn |
+| the Infiltrator | 125 | 320 | Tranquilizer, knife, frag grenade, gas grenade | assassinate enemy players using a knife, disguise as enemy players, consume corpses, eavesdrop on the enemy voicechat and teamchat when in range of them, use thermal vision |
+| the Support | 250 | 270 | Plasma grenade launcher, harpoon, melee, frag grenade, dynamite | Mortar Strike (stun and AoE damage). Mortars came in multiple round types, (which could be unlocked from Technology Upgrades) from Smoke Rounds, that did minimal damage but covered enemies in smoke, to Starburst Rounds, that blinded enemies much like the Flash-bang in Counter-Strike, and finally to the Cluster (MIRV) Rounds, which split up into two mid-air for more damage and impact spread.|
+| the Escort | 150 | 320 | Laser minigun, shotgun, melee, frag grenade, heal grenade | VIP, can't build |
+| the Sniper | 125 | 290 | Sniper rifle, laser rifle, melee, frag grenade, indicator grenade | add Wrangler's laser sight when he's scoped, pls:3 |
+
 ### Mechanics
 **shield** - some classes have the shield, which reduces the damage by half and has 5 seconds of use and 12 seconds of cooldown.
 
