@@ -12,24 +12,28 @@ Two teams, Humans and Aliens, fight to complete map objectives such as capturing
 The Humans and Aliens differ in gameplay philosophy. Humans require external power sources for some structures, while Aliens do not. Humans receive a 20% discount on buildings, while Aliens previously utilized reinforcement wave respawning.
 
 ## Control settings
-|              Action              |  PC  |        Gamepad         |
-|----------------------------------|------|------------------------|
-| Move Forward                     | W    |                        |
-| Move Back                        | S    |                        |
-| Move Left                        | A    |                        |
-| Move Right                       | D    |                        |
-| Crouch                           | Ctrl |                        |
-| Primary fire                     | LMB  |                        |
-| Secondary fire                   | RMB  |                        |
-| Throw grenade                    | F    |                        |
-| Throw secondary grenade          | G    |                        |
-| Use Voice Chat                   | V    |                        |
-| Text chat                        | Y    |                        |
-| Team text chat                   | U    |                        |
-| Call for Medic                   | E    |                        |
-| Change Class                     | ,    |                        |
-| Change Team                      | .    |                        |
-| Taunt                            | H    |                        |
+|              Action              |  PC   | Gamepad |
+|----------------------------------|-------|---------|
+| Move Forward                     | W     | LSB     |
+| Move Back                        | S     | LSB     |
+| Move Left                        | A     | LSB     |
+| Move Right                       | D     | LSB     |
+| Jump                             | Space | Ⓐ      |
+| Crouch                           | Ctrl  | RSB     |
+| Primary fire                     | LMB   | RT      |
+| Secondary fire                   | RMB   | LT      |
+| Throw grenade                    | F     | LB      |
+| Throw secondary grenade          | G     | RB      |
+| Reload                           | R     | Ⓧ      |
+| Scroll weapons                   | SW    | Ⓨ      |
+| Cancel action                    | Esc   | Ⓑ      |
+| Use Voice Chat                   | V     |         |
+| Text chat                        | Y     |         |
+| Team text chat                   | U     |         |
+| Call for Medic                   | E     |         |
+| Change Class                     | ,     |         |
+| Change Team                      | .     |         |
+| Taunt                            | H     |         |
 
 ## General game style
 dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld maps ith wide open areas for the firefight and flanking parts, thats some of the examples of atmosphere for team fortress invasion. the visuals are dirty and the gameplay is non-stop shooting and resource harvesting. a fast-paced game that each match goes around 15 minutes.
